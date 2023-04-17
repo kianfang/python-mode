@@ -1,59 +1,59 @@
 [submodule "submodules/autopep8"]
 	path = submodules/autopep8
-	url = https://github.com/hhatto/autopep8
+	url = git@github.com:hhatto/autopep8.git
     ignore = dirty
     shallow = true
 [submodule "submodules/pycodestyle"]
 	path = submodules/pycodestyle
-	url = https://github.com/PyCQA/pycodestyle
+	url = git@github.com:PyCQA/pycodestyle.git
     ignore = dirty
     shallow = true
 [submodule "submodules/pydocstyle"]
 	path = submodules/pydocstyle
-	url = https://github.com/PyCQA/pydocstyle
+	url = git@github.com:PyCQA/pydocstyle.git
     ignore = dirty
     shallow = true
 [submodule "submodules/mccabe"]
 	path = submodules/mccabe
-	url = https://github.com/PyCQA/mccabe
+	url = git@github.com:PyCQA/mccabe.git
     ignore = dirty
     shallow = true
 [submodule "submodules/pyflakes"]
 	path = submodules/pyflakes
-	url = https://github.com/PyCQA/pyflakes
+	url = git@github.com:PyCQA/pyflakes.git
     ignore = dirty
     shallow = true
 [submodule "submodules/snowball_py"]
 	path = submodules/snowball_py
-	url = https://github.com/diraol/snowball_py
+	url = git@github.com:diraol/snowball_py.git
     ignore = dirty
 	branch = develop
     shallow = true
 [submodule "submodules/pylint"]
 	path = submodules/pylint
-	url = https://github.com/PyCQA/pylint
+	url = git@github.com:PyCQA/pylint.git
     shallow = true
 [submodule "submodules/rope"]
 	path = submodules/rope
-	url = https://github.com/python-rope/rope
+	url = git@github.com:python-rope/rope.git
     shallow = true
 [submodule "submodules/astroid"]
 	path = submodules/astroid
-	url = https://github.com/PyCQA/astroid
+	url = git@github.com:PyCQA/astroid.git
     shallow = true
 [submodule "submodules/pylama"]
 	path = submodules/pylama
-	url = https://github.com/klen/pylama
+	url = git@github.com:klen/pylama.git
     shallow = true
 [submodule "submodules/toml"]
 	path = submodules/toml
-	url = https://github.com/uiri/toml.git
+	url = git@github.com:uiri/toml.git
 [submodule "submodules/pytoolconfig"]
 	path = submodules/pytoolconfig
-	url = https://github.com/bagel897/pytoolconfig.git
+	url = git@github.com:bagel897/pytoolconfig.git
 [submodule "submodules/tomli"]
 	path = submodules/tomli
-	url = https://github.com/hukkin/tomli.git
+	url = git@github.com:hukkin/tomli.git
 [submodule "submodules/appdirs"]
 	path = submodules/appdirs
-	url = https://github.com/ActiveState/appdirs.git
+	url = git@github.com:ActiveState/appdirs.git
