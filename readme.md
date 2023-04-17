@@ -29,7 +29,7 @@
 
 If you are a new user please clone the repos using the recursive flag:
 
-> git clone --recurse-submodules https://github.com/python-mode/python-mode
+> git clone --recurse-submodules git@github.com:kianfang/python-mode
 
 -------------------------------------------------------------------------------
 
